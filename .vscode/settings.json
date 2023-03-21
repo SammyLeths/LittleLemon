@@ -1,0 +1,18 @@
+{
+  "githubPullRequests.ignoredPullRequestBranches": ["master"],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "LittleLemonCapstone",
+      "username": "littlelemonadmin",
+      "database": "littlelemon",
+      "password": "employee@123!"
+    }
+  ]
+}
