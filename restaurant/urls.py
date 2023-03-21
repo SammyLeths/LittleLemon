@@ -7,4 +7,5 @@ urlpatterns = [
     #path('booking/', views.BookingView.as_view()),
     path('menu/items/', views.MenuItemsView.as_view()),
     path('menu/items/<int:pk>', views.SingleMenuItemView.as_view()),
+    path('message/', views.msg),
 ]
