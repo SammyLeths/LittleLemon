@@ -1,4 +1,4 @@
-# LittleLemon
+# LittleLemon Restaurant
 
 <h2>API Endpoint Tests</h2>
 
