@@ -4,15 +4,15 @@
 
 ## Test with Insomnia
 
-http://127.0.0.1:8000/restaurant/
-http://127.0.0.1:8000/restaurant/booking/
-http://127.0.0.1:8000/restaurant/booking/tables/
-http://127.0.0.1:8000/restaurant/menu-items/
-http://127.0.0.1:8000/restaurant/menu-items/<int:pk>
-http://127.0.0.1:8000/auth/users/
-http://127.0.0.1:8000/auth/token/login
+<p>http://127.0.0.1:8000/restaurant/</p>
+<p>http://127.0.0.1:8000/restaurant/booking/</p>
+<p>http://127.0.0.1:8000/restaurant/booking/tables/</p>
+<p>http://127.0.0.1:8000/restaurant/menu-items/</p>
+<p>http://127.0.0.1:8000/restaurant/menu-items/<int:pk></p>
+<p>http://127.0.0.1:8000/auth/users/</p>
+<p>http://127.0.0.1:8000/auth/token/login</p>
 
 ## UnitTest in VsCode Shell
 
-PS C:\littlelemon\tests\test_models.py
-PS C:\littlelemon\tests\test_views.py
+<p>PS C:\littlelemon\tests\test_models.py</p>
+<p>PS C:\littlelemon\tests\test_views.py</p>
