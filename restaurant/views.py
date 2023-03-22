@@ -10,7 +10,7 @@ from .models import Booking, MenuItem
 from .serializers import BookingSerializer, MenuItemSerializer, UserSerializer
 
 # Create your views here.
-def index(request):
+def home(request):
   return render(request, 'index.html', {})
 
 
