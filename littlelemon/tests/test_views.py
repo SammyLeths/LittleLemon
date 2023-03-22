@@ -8,7 +8,7 @@ class MenuViewTest(TestCase):
         return super().setUp()
 
     def test_getall(self):
-        request = RequestFactory().get('/restaurant/menu')
+        request = RequestFactory().get('/restaurant/menu-items/')
         view = MenuItemsView()
         view.setup(request)
 
